@@ -5,3 +5,6 @@
 NEWS.md
 ^docs$
 ^\.\./syberia\.github\.io/docs/packages/syberia$
+^.*\.Rproj$
+^\.Rproj\.user$
+^Syberia-Robert-Krzyzanowski.pdf$
