@@ -1,9 +1,6 @@
----
-title: "Syberia: A framework to productionize machine learning models with R "
-output: github_document
----
+## Syberia: A framework to productionize machine learning models with R
 
-[**2017-06-22 @ Jaks Tap**](https://www.meetup.com/ChicagoRUG/events/240584291/)
+[Meetup: **2017-06-22 @ Jaks Tap**](https://www.meetup.com/ChicagoRUG/events/240584291/)
 
 
 A talk with Robert Krzyzanowski on how R is being used in production by one of the fastest-growing online consumer lenders in the world.
