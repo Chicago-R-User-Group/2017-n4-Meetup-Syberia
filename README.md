@@ -12,6 +12,10 @@ Syberia is a framework designed to productionize the R programming language, for
 
 Rob is the original creator of Syberia, and he is the current director of data engineering at Avant, an online consumer lender that launched in 2012 and crossed the $1B threshold in 2015. Rob's previous experience includes studying pure mathematics at the University of Illinois at Chicago as well as B.S. in math, computer science and physics. Conditional on his spare time, the likelihood is high you'll find Rob playing chess and drinking black mango tea!
 
+
 [Presentation Slides here](https://github.com/Chicago-R-User-Group/2017-n4-Meetup-Syberia/Syberia-Robert-Krzyzanowski.pdf)
 
+[Syberia Github](https://github.com/syberia)
+
 [Original Syberia README here](https://github.com/Chicago-R-User-Group/2017-n4-Meetup-Syberia/README_2.md)
+
